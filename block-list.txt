@@ -1,3 +1,4 @@
-127.0.0.1 a.magsrv.com
-127.0.0.1 securepubads.g.doubleclick.net
-127.0.0.1 googleads.g.doubleclick.net
+0.0.0.0 a.magsrv.com
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleadservices.com
