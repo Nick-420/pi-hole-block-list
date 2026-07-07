@@ -3,3 +3,6 @@
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleadservices.com
 0.0.0.0 adtech.yahooinc.com
+0.0.0.0 s.youtube.com
+0.0.0.0 redirector.googlevideo.com
+0.0.0.0 youtubei.googleapis.com
